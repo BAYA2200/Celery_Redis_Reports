@@ -48,7 +48,6 @@ pip install -r requirements.txt
 docker-compose up -d --build
 ```
 
-# Затем переходим на следующий путь введя его в браузере
 
 
 
